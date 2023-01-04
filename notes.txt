@@ -1,0 +1,18 @@
+This part will be about asynchronous programming 
+javascript is single threaded and synchronous programming language
+
+> ek ek kaam step by step hona isse kehte hai synchronous programming  
+
+>synchronous programming mai koi code hamare further code ko block kar sakta hai and then asynchronous programming came into picture
+
+> javascript is single threaded and synchronous programming language
+
+> settimeput input leta hai ek function
+
+> 1000ms matlab 1 sec 
+
+> aap aisa niyam bana sakte ho ki setTimeout mai jo bhi callback function hai vo execute puri ki puri file run hone ke badh he hoga bhale usko kitna bhi vakta lagjaae
+
+> setTimeout hamare aage vale code ko block nahi kar raha ye example hai asynchronous programming ki 
+
+> setTimeout return mai deta hai ek id 
