@@ -1,6 +1,8 @@
 This part will be about asynchronous programming 
 javascript is single threaded and synchronous programming language
 
+> Defer likhna math bhoolna 
+
 > ek ek kaam step by step hona isse kehte hai synchronous programming  
 
 >synchronous programming mai koi code hamare further code ko block kar sakta hai and then asynchronous programming came into picture
