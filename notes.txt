@@ -28,3 +28,15 @@ javascript is single threaded and synchronous programming language
 
  >Promise ek aisi value hai jo hame abhi nahi pata but hume future mai patah hogi
  > promise represent karta hai future value jo hume abhi nahi pata but badme pata chalegi
+ > Promise bhi browser ka feature hai toh voh bhi asynchronusly kaam karega 
+
+ > As a javascript developer you will consume more promise as compared to producing a promise
+
+ > resolve , reject , then , catch 
+
+ > Promise add hote hai microtask queue mai   
+ >settimeout setinterval vagera callback queue mai add hoti hai
+
+ > callback queue or microtask queue ki comparison mai microtask queue ko jyada priority dee jati hai islea microtask queue pehle execute hota hai 
+
+ >  ye behaviour sabh browsers mai same rehega  
