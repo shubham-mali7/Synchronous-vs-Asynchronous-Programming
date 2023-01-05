@@ -23,3 +23,8 @@ javascript is single threaded and synchronous programming language
 
 >  pyramid of doom (google ki bhasha mai)
  A pyramid of doom is a block of code that is so nested that you give up trying to mentally digest it. It usually comes in the form of a function within a function within a function within a function of some sort.
+
+ > Prior to promises events and callback functions were used but they had limited functionalities and created unmanageable code. Multiple callback functions would create callback hell that leads to unmanageable code. Also it is not easy for any user to handle multiple callbacks at the same time
+
+ >Promise ek aisi value hai jo hame abhi nahi pata but hume future mai patah hogi
+ > promise represent karta hai future value jo hume abhi nahi pata but badme pata chalegi
