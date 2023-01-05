@@ -18,3 +18,8 @@ javascript is single threaded and synchronous programming language
 > setTimeout hamare aage vale code ko block nahi kar raha ye example hai asynchronous programming ki 
 
 > setTimeout return mai deta hai ek id 
+
+> Prmises are used to prevent callback hell (callBackInAsynch file contains callback hell and pyramid of loop explaination)
+
+>  pyramid of doom (google ki bhasha mai)
+ A pyramid of doom is a block of code that is so nested that you give up trying to mentally digest it. It usually comes in the form of a function within a function within a function within a function of some sort.
