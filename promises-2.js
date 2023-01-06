@@ -3,7 +3,7 @@
 function ricePromise() {
   const bucket = ["chips", "coffee", "vegetables", "rice", "salt"];
 
-  const friedRicePromise = new Promise((resolve, reject) => {
+  return new Promise((resolve, reject) => {
     if (
       bucket.includes("vegetables") &&
       bucket.includes("rice") &&
