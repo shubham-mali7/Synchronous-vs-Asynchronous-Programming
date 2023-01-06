@@ -40,3 +40,30 @@ javascript is single threaded and synchronous programming language
  > callback queue or microtask queue ki comparison mai microtask queue ko jyada priority dee jati hai islea microtask queue pehle execute hota hai 
 
  >  ye behaviour sabh browsers mai same rehega  
+
+ AJAX-----------------------------------------
+
+ > Browser client hai or backEnd mai server hota hai or hame request karni hai server ko ki hame ye data chahie 
+ > client or server ke bich jo communication hoti hai vo hoti hai http se
+
+ >HTTP  -(Hyper Text Transfer Protocol)
+
+ > REST Api (Representational State Transfer )
+
+ > HTTP Verbs : GET POST PUT PATCH DELETE
+
+ > https://jsonplaceholder.typicode.com/posts --------->(API link craeted by backend developer)
+ > in above link posts is the path we want to go 
+
+ > JSON mai jo object hai uske key value pairs ko double quotes mai likhna is compulsory
+
+ > HTTP Status code :
+1xx informational response – the request was received, continuing process
+2xx successful – the request was successfully received, understood, and accepted
+3xx redirection – further action needs to be taken in order to complete the request
+4xx client error – the request contains bad syntax or cannot be fulfilled
+5xx server error – the server failed to fulfil an apparently valid request
+
+> onload method tabhi he chalti hai jab readystate 4 hoti hai
+
+> onerror method is used to handle network errors
