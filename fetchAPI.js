@@ -6,7 +6,7 @@
 // bhai code toh ekdam short or understandable hogaya !!!!!!
 // Promise should always be returned
 
-const URL = "https://jsonplaceholder.typicode.com/postss";
+const URL = "https://jsonplaceholder.typicode.com/posts";
 
 fetch(URL) //---> is ek line se sabh hogaya
   .then((response) => {

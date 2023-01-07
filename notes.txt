@@ -67,3 +67,14 @@ javascript is single threaded and synchronous programming language
 > onload method tabhi he chalti hai jab readystate 4 hoti hai
 
 > onerror method is used to handle network errors
+
+> GET Method --> data ko read karte vakta
+> POST method --> data ko create karte vakta 
+
+> (response) =>{       -------------> 1
+    return response.json(); 
+}
+
+> response => response.json(); -----------> 2
+
+> Both 1 and 2 are same only 2nd is another way to write in short
