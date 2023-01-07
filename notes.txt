@@ -78,3 +78,9 @@ javascript is single threaded and synchronous programming language
 > response => response.json(); -----------> 2
 
 > Both 1 and 2 are same only 2nd is another way to write in short
+
+>--- Import Export --
+> Created a folder 
+> touch app.js index.html
+> mkdir utils --> to create folder named utils 
+> touch utils.js/age.js utils.js/fname.js
